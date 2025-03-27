@@ -13,7 +13,9 @@ Two electric motor are coupled to Meccano gear for speed reduction
 ![](robot_gearbox.jpg)
 
 ## 🛠️ Motor control
-**Pulse Width Modulation (PWM)** is used to regulate motor power, enabling precise speed and direction control. An H bridge control the motor.
+**Pulse Width Modulation (PWM)** is used to regulate motor power, enabling precise speed and direction control. 
+An H bridge control the motor.
+
 ![](robot_Hbridge.jpg)
 
 ## 📡 Sonar
